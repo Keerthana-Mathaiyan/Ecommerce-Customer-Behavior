@@ -1,7 +1,7 @@
 # Ecommerce-Customer-Behavior
 
 
-##Overview
+## Overview
 
 
 This project analyzes an e-commerce dataset to gain insights into customer behavior and predict business outcomes. It focuses on customer churn prediction, segmentation, lifetime value forecasting, and recommendation systems.
@@ -9,7 +9,7 @@ This project analyzes an e-commerce dataset to gain insights into customer behav
 
 The dataset is sourced from Kaggle and contains detailed information about customer demographics, engagement, purchase history, and behavioral metrics.
 
-##Project Goals
+## Project Goals
 
     1.Binary Classification (Churn Prediction)
     
@@ -27,7 +27,7 @@ The dataset is sourced from Kaggle and contains detailed information about custo
     
     Suggest products to users based on purchase history and engagement data (collaborative filtering/SVD).
 
-##🧹Data Cleaning & Preprocessing
+## 🧹Data Cleaning & Preprocessing
 
     ⚡Missing numerical values filled with median.
     
@@ -39,14 +39,14 @@ The dataset is sourced from Kaggle and contains detailed information about custo
     
     ⚡Optional features include PCA and cluster labels for advanced analysis.
 
-Outputs
+## Outputs
 
     ecommerce_clean_for_powerbi.xlsx – cleaned dataset ready for visualization and Power BI.
 
        
     Jupyter notebooks with preprocessing, regression, clustering, and feature analysis.
 
-⚙️Tools & Libraries
+## ⚙️Tools & Libraries
 
     Python: pandas, numpy, scikit-learn, matplotlib, seaborn
     
@@ -54,7 +54,7 @@ Outputs
     
     GitHub: version control and sharing
 
-How to Use
+## How to Use
 
 Clone the repository:
 
@@ -64,3 +64,9 @@ Clone the repository:
 Open the notebooks in Jupyter or VS Code.
 
 Use ecommerce_clean_for_powerbi.xlsx for Power BI dashboards and visualizations.
+
+### License:
+
+Database: Kaggle - Open Database, Contents: Database Contents
+Link: [Ecommerce Customer Behavior Dataset](https://www.kaggle.com/datasets/dhairyajeetsingh/ecommerce-customer-behavior-dataset/data)
+
