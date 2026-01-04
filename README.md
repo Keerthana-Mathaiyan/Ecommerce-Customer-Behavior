@@ -67,6 +67,8 @@ Use ecommerce_clean_for_powerbi.xlsx for Power BI dashboards and visualizations.
 
 ### License:
 
-Database: Kaggle - Open Database, Contents: Database Contents
+Database: Kaggle - Open Database,
+Contents: Database Contents
+
 Link: [Ecommerce Customer Behavior Dataset](https://www.kaggle.com/datasets/dhairyajeetsingh/ecommerce-customer-behavior-dataset/data)
 
